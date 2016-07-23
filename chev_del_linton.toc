@@ -1,4 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Contexte semantique}{2}{0}{1}
-\beamer@sectionintoc {2}{Contexte geographique}{5}{0}{2}
-\beamer@sectionintoc {3}{Focus sur une ASA : Corbere}{10}{0}{3}
