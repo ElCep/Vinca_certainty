@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Context}{4}{0}{2}
+\beamer@sectionintoc {3}{Hydraulic society in the Eastern Pyrenees?}{12}{0}{3}
+\beamer@sectionintoc {4}{Death by certainty}{18}{0}{4}
+\beamer@sectionintoc {5}{Conclusions}{21}{0}{5}
